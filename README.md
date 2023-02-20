@@ -9,7 +9,7 @@ Web Frameworks	Spring MVC, Spring Boot, Bootstrap, Angular JS
  
 
 EXPERIENCE
-Software Tester | FedEx Revenue TD | Dec 2017 – Dec 2021
+Associate Consultant | Atos Syntel | Dec 2017 – Dec 2021
 	Serving as a Tester holding the responsibility of analyzing the product requirements and preparing a Test Plan.
 	Preparing and executing the test cases based on functional specifications
 	Automate tests using JAVA 
@@ -20,7 +20,7 @@ Software Tester | FedEx Revenue TD | Dec 2017 – Dec 2021
 	Working in Agile Methodologies
 
 EDUCATION
-The University of Texas at Arlington | January 2021 – Currently pursuing | Master of Science, Software Engineering   GPA-3.5/4.0
+The University of Texas at Arlington | January 2021 – Currently pursuing | Master of Science, Software Engineering   GPA-3.571/4.0
 Bhilai Institute of Technology, Durg| August 2013 - June 2017 |                        Bachelor of Engineering, Computer Science and Engineering   GPA-3.5/4.0
 
 PROJECTS
